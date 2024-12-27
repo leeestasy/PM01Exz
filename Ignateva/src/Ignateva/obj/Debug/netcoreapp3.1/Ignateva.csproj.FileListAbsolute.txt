@@ -1,0 +1,13 @@
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\bin\Debug\netcoreapp3.1\Ignateva.exe
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\bin\Debug\netcoreapp3.1\Ignateva.deps.json
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\bin\Debug\netcoreapp3.1\Ignateva.runtimeconfig.json
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\bin\Debug\netcoreapp3.1\Ignateva.runtimeconfig.dev.json
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\bin\Debug\netcoreapp3.1\Ignateva.dll
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\bin\Debug\netcoreapp3.1\Ignateva.pdb
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.AssemblyInfoInputs.cache
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.AssemblyInfo.cs
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.dll
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.pdb
+D:\Users\stu-ipsp121\Desktop\Ignateva\src\Ignateva\obj\Debug\netcoreapp3.1\Ignateva.genruntimeconfig.cache
